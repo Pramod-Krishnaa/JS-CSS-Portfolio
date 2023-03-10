@@ -3,6 +3,7 @@
 <!-- ### Responsive Portfoilio front-end with HTML, CSS, SCSS and javascript -->
 
 ### Portfolio is developed for Hackathon task conducted by FOSS,CIT
+### This is just UI design not a fully function one, if you want to add links in the respective areas
 
 # Sample Screen
 
